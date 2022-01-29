@@ -1,4 +1,4 @@
-# DASS SUBMISSION
+# ZOMATO LITE
 
 A Food application portal built as an assginment for the course Design and Analysis of Software Systems. The App is built with MERN stack. It has two views -
 
